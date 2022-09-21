@@ -1,0 +1,9 @@
+.Sign-up-backgroundimg {
+  background: url("https://images.unsplash.com/photo-1661041521544-48c4140b8af6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfGJvOGpRS1RhRTBZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+
+  /* filter: brightness(50%); */
+
+  color: white;
+
+  width: 30%;
+}

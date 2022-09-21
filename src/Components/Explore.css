@@ -1,0 +1,20 @@
+.exp-img-box {
+  filter: brightness(60%);
+  border-radius: 1%;
+}
+
+.exp-render {
+  max-width: 95%;
+  margin: auto;
+  padding: 30px;
+  column-count: 3;
+}
+
+.exp-render img {
+  width: 100%;
+
+  height: "auto";
+  display: block;
+  margin-bottom: 20px;
+  padding: 10px;
+}

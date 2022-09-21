@@ -1,0 +1,12 @@
+.drop-box {
+  box-shadow: 0px 5px 5px 0px rgba(0.1, 0, 0, 0.1);
+
+  background-color: white;
+  width: 600px;
+  height: 350px;
+  color: black;
+  position: absolute;
+  z-index: 1;
+  margin-top: -5%;
+  transform: translate3d(-20.0375px, 55.2px, 0px);
+}

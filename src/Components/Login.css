@@ -1,0 +1,14 @@
+.Logo-box {
+  margin: auto;
+  line-height: 50px;
+}
+.Logo-box > img {
+  margin: auto;
+  width: 13%;
+  margin-bottom: 6%;
+}
+
+.outer-container-login {
+  margin-top: 5%;
+  line-height: 50px;
+}

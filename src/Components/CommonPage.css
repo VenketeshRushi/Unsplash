@@ -1,0 +1,15 @@
+.common-box {
+  max-width: 95%;
+  margin: auto;
+  padding: 30px;
+  column-count: 3;
+}
+
+.common-box img {
+  width: 100%;
+
+  height: "auto";
+  display: block;
+  margin-bottom: 20px;
+  padding: 10px;
+}

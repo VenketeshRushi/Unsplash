@@ -1,0 +1,18 @@
+.slick-prev:before {
+  content: "<";
+}
+.slick-next:before {
+  content: ">";
+}
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick";
+  font-size: 25px;
+  color: black;
+  font-weight: 600;
+}
+
+.underline {
+  text-underline-offset: 18.8px;
+  margin-top: 3px;
+}

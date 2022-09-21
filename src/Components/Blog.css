@@ -1,0 +1,14 @@
+.inner-div-blog {
+  width: 80%;
+  box-shadow: 0px 5px 5px 0px rgba(0.1, 0, 0, 0.2);
+}
+
+.inner-outerdiv-blog {
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.inner-div-blog-second {
+  margin-top: 5%;
+  margin-left: 5%;
+}
